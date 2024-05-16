@@ -1,0 +1,81 @@
+     
+        <div class="card">
+          <img src="images/trending3.webp" class="card-img" alt="" />
+          <div class="card-body">
+            <h2 class="name">Govinda Naam Mera</h2>
+            <h6 class="des">Romance, Drama, comedy Movies</h6>
+            <button class="watchlist-btn">Add to watchlist</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/trending4.jpeg" class="card-img" alt="" />
+          <div class="card-body">
+            <h2 class="name">FALL</h2>
+            <h6 class="des">Thriller, Drama Movies</h6>
+            <button class="watchlist-btn">Add to watchlist</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/trending5.jpeg" class="card-img" alt="" />
+          <div class="card-body">
+            <h2 class="name">Monster</h2>
+            <h6 class="des">Thriller, Drama Movies</h6>
+            <button class="watchlist-btn">Add to watchlist</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/trending6.jpg" class="card-img" alt="" />
+          <div class="card-body">
+            <h2 class="name">Freedy</h2>
+            <h6 class="des">Action, Drama Movies</h6>
+            <button class="watchlist-btn">Add to watchlist</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/trending7.webp" class="card-img" alt="" />
+          <div class="card-body">
+            <h2 class="name">Willow</h2>
+            <h6 class="des">Thriller, Drama Movies</h6>
+            <button class="watchlist-btn">Add to watchlist</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/trending8.webp" class="card-img" alt="" />
+          <div class="card-body">
+            <h2 class="name">Sita Ramam</h2>
+            <h6 class="des">Thriller, Love, Drama Movies</h6>
+            <button class="watchlist-btn">Add to watchlist</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/trending9.jpg" class="card-img" alt="" />
+          <div class="card-body">
+            <h2 class="name">Brahmastra</h2>
+            <h6 class="des">Thriller, Drama Movies</h6>
+            <button class="watchlist-btn">Add to watchlist</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/trending10.jpg" class="card-img" alt="" />
+          <div class="card-body">
+            <h2 class="name">Movie</h2>
+            <h6 class="des">Thriller, Drama Movies</h6>
+            <button class="watchlist-btn">Add to watchlist</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/trending11.jpeg" class="card-img" alt="" />
+          <div class="card-body">
+            <h2 class="name">Repeat</h2>
+            <h6 class="des">Thriller, Drama Movies</h6>
+            <button class="watchlist-btn">Add to watchlist</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="images/trending12.chjklwvtcy1hc3nldhmvbw92awvzlzk5zjm1mdzllwu4zwetndrjmi05y2viltk4zmy1ymq3nju2ms5qcgc=" class="card-img" alt="" />
+          <div class="card-body">
+            <h2 class="name">Strange World</h2>
+            <h6 class="des">Intertainment Movies</h6>
+            <button class="watchlist-btn">Add to watchlist</button>
+          </div>
+        </div>
